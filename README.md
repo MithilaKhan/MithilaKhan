@@ -9,7 +9,8 @@
 
 <h2 align="left">
   Hi 👋! I'm Naziya Sultana Mithila —<br />
-  a passionate Front-End Developer crafting beautiful, responsive, and user-friendly web experiences.
+  a passionate Front-End Developer crafting beautiful, responsive, <br/>
+  and  user-friendly web experiences.
 </h2>
 
 ### 
