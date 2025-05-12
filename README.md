@@ -8,9 +8,8 @@
 </div> 
 
 <h2 align="left">
-  Hi 👋! I'm Naziya Sultana Mithila —<br />
-  a passionate Front-End Developer crafting beautiful, responsive, <br/>
-  and  user-friendly web experiences.
+  Hi 👋 I'm Naziya Sultana Mithila —<br />
+  a creative Front-End Developer building modern, user-friendly websites.
 </h2>
 
 ### 
