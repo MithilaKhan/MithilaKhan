@@ -1,3 +1,11 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div> 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MithilaKhan.MithilaKhan&"  />
+</div> 
+
 <h2 align="left">Hi 👋! My name is Naziya Sultana Mithila and I'm a Professional Front-End Developer</h2>
 
 ###
@@ -8,10 +16,8 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
+ 
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -46,6 +52,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MithilaKhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ###
