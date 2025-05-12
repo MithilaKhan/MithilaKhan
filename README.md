@@ -8,7 +8,9 @@
 
 <h2 align="left">Hi 👋! My name is Naziya Sultana Mithila and I'm a Professional Front-End Developer</h2>
 
-###
+### 
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MithilaKhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -16,6 +18,8 @@
 </div>
 
 ###
+ 
+ <br clear="both"> 
  
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -50,7 +54,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
