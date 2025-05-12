@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5eDNkaHE2M2pqdTRocXQxbnZieG9vajg5ZWRuMDB5Mzh0MjQzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKQ65LZyOjypYrfnF/giphy.gif"  />
+  <img height="150" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt3MXN6MWRseDFjOHIyN244dzV2bXZ2azdtMmRqYnJvbndxYTNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xxZNG5ksd4jcdZOecU/giphy.gif"  />
 </div> 
 
 <div align="center">
@@ -50,7 +50,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MithilaKhan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
 
 ###
