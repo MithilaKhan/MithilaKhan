@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt3MXN6MWRseDFjOHIyN244dzV2bXZ2azdtMmRqYnJvbndxYTNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xxZNG5ksd4jcdZOecU/giphy.gif"  />
-</div> 
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MithilaKhan.MithilaKhan&"  />
