@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=naziyamithila.naziyamithila&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MithilaKhan.MithilaKhan" />
 </div> 
 
 <h2 align="left"  style="padding-bottom: 10px;">
