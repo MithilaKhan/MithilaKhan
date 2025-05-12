@@ -43,6 +43,7 @@
 
 ###
 
+ <br clear="both">  
 <div align="left">
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio" />
@@ -54,8 +55,7 @@
 
 ###
 
-
-
+ <br clear="both"> 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
