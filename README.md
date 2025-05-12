@@ -7,7 +7,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MithilaKhan.MithilaKhan&"  />
 </div> 
 
-<h2 align="left">
+<h2 align="left"  style="padding-bottom: 10px;">
   Hi 👋 I'm Naziya Sultana Mithila —<br />
   a creative Front-End Developer building modern, user-friendly websites.
 </h2>
