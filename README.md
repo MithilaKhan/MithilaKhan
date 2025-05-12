@@ -7,7 +7,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MithilaKhan.MithilaKhan&"  />
 </div> 
 
-<h2 align="left">Hi 👋! My name is Naziya Sultana Mithila and I'm a Professional Front-End Developer</h2>
+<h2 align="left">
+  Hi 👋! I'm Naziya Sultana Mithila —<br />
+  a passionate Front-End Developer crafting beautiful, responsive, and user-friendly web experiences.
+</h2>
 
 ### 
 
